@@ -3,5 +3,6 @@ channels:
 dependencies:
   - root
   - uproot
+  - pybind11
   - pandas
-  - numpy
+  - numba
