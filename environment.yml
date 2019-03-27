@@ -2,6 +2,7 @@ channels:
   - conda-forge
 dependencies:
   - root
+  - root_numpy
   - uproot
   - pybind11
   - pandas
