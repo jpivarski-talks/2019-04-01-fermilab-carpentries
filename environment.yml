@@ -8,3 +8,5 @@ dependencies:
   - pandas
   - numba
   - dask
+  - h5py
+  - pyarrow
