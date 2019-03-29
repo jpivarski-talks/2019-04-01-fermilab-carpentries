@@ -6,6 +6,7 @@ dependencies:
   - uproot
   - pybind11
   - pandas
+  - matplotlib
   - numba
   - dask
   - h5py
