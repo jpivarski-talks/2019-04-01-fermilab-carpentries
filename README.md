@@ -10,4 +10,4 @@ Run them on the web by clicking: [![Binder](https://mybinder.org/badge_logo.svg)
 git clone https://github.com/jpivarski/2019-04-01-fermilab-carpentries
 ```
 
-Start with [01-installation.ipynb](01-installation.ipynb) to be sure you have everything installed.
+Start with [01-installation.ipynb](01-installation.ipynb) to be sure you have all prerequisites installed.
