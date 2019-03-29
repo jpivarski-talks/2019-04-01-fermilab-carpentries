@@ -11,3 +11,5 @@ git clone https://github.com/jpivarski/2019-04-01-fermilab-carpentries
 ```
 
 Start with [01-installation.ipynb](01-installation.ipynb) to be sure you have all prerequisites installed.
+
+**To see evaluated cells in GitHub**, click to [this branch](https://github.com/jpivarski/2019-04-01-fermilab-carpentries/tree/evaluated).
